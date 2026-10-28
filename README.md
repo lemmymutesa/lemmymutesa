@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm LEMMY MUTESA | Lusaka, Zambia
 
-<!--
-**lemmymutesa/lemmymutesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Computer Science student @ ZCAS University — Future Software Engineer.
 
-Here are some ideas to get you started:
+What I'm learning:
+- Python, Data Structures & Algorithms
+- HTML, CSS & Responsive Design
+- Kotlin (Android)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Projects:
+- local-food-order-app — Food delivery app connecting customers to local restaurants
+- victoria-falls-landing-page — Tourism page for Victoria Falls
+- personal-logo-website — Personal brand showcase
+- zcas-python-fundamentals — My FOP coursework
+
+Goal: 1 commit a day | Building towards Software Engineering Internship 2026
+
+Connect: DM me on GitHub — lemmymutesa
